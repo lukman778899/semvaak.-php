@@ -10,11 +10,11 @@ install
   $pkg install git
 ```
 ```
-  $git clone https://github.com/megatruh/malproject
+  $git clone https://github.com/lukman778899/semvaak.-php
 ```
 # GASS 
 ```
-$cd semvak.-php
+$cd semvaak.-php
 ```
 ```
 $php alfood.php
