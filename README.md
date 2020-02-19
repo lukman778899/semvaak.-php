@@ -1,9 +1,5 @@
 # Gojek Auto Register & Save Token 
-
-  ## Not Work Anymore, coz the promo code was expired
-  ## wait till they have new promocode
-  
-# install
+install
 ```
   $pkg install curl
 ```
@@ -16,9 +12,9 @@
 ```
   $git clone https://github.com/megatruh/malproject
 ```
-# use 
+# GASS 
 ```
-$cd alfood
+$cd semvak.-php
 ```
 ```
 $php alfood.php
